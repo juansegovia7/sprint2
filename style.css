@@ -1,0 +1,43 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 80% 20%;
+}
+h1{
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+}
+h2{
+    text-align: center;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.flex-logo{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+}
+.logo2{
+   
+   height: max-content;
+   width: max-content;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium; color: rgb(243, 239, 239);
+    height: 100%;
+    background: repeating-linear-gradient(white,red,black);
+}
+footer{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
