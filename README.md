@@ -1,1 +1,3 @@
-Este archivo se compone por lenguaje html, y css, aplicados.
+Este archivo contiene el sprint 3
+link repositorio:
+link deploy:
